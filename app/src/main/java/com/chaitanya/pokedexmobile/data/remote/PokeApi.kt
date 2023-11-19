@@ -1,5 +1,6 @@
 package com.chaitanya.pokedexmobile.data.remote
 
+
 import com.chaitanya.pokedexmobile.data.remote.responses.Pokemon
 import com.chaitanya.pokedexmobile.data.remote.responses.PokemonList
 import retrofit2.http.GET
